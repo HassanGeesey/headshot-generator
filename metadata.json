@@ -1,0 +1,5 @@
+{
+  "name": "AI Headshot Generator",
+  "description": "Upload a portrait photo and our AI will refine it into a professional headshot with a clean white background, perfect lighting, and enhanced facial features.",
+  "requestFramePermissions": []
+}
